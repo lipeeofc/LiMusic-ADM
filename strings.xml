@@ -1,0 +1,8 @@
+<resources>
+    <string name="add_song">Adicionar música</string>
+    <string name="subtitle">Envie o arquivo e informe a capa</string>
+    <string name="pick_song">Escolher música</string>
+    <string name="no_file">Nenhum arquivo selecionado</string>
+    <string name="cover_url">URL da imagem de capa</string>
+    <string name="save">Salvar</string>
+</resources>
